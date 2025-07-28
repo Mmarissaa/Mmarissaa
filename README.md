@@ -49,5 +49,5 @@ A Tableau dashboard analyzing return drivers by region and product type to help 
 ## 🌐 Let’s Connect
 
 - 🔗(https://www.linkedin.com/in/marissa-pemberton)  
-- 📄(file:///C:/Users/pembe/Downloads/Marissa%20Pemberton%20Resume%20Project%20(2).pdf  
+- 📄https://docs.google.com/document/d/1gOgEh6SuBiYNHtUttl1RexkQi_WLO4GFZDs8PCVeGLk/edit?usp=sharing
 - 📍📍 Based in Pleasant Grove, UT – Temporarily relocating to Fairview, UT at the end of August – Open to remote work or relocation 
